@@ -1,5 +1,6 @@
 # Telegram-Turkiye
 Telegram Türkçe Grup,Kanal Listesi
+###### Gruplara katılarak grupların kurallarını kabut etmiş sayılırsınız!
 
 ## Gruplar:
 
@@ -12,6 +13,11 @@ Telegram Türkçe Grup,Kanal Listesi
 * General Mobile 4G/5 ve Wileyfow Swift: https://t.me/cracklinturkiye
 * Ses - Müzik TR: https://t.me/SESTR_TR
 * j2me jar Oyun Program - J2ME Java Micro Edition: https://t.me/j2megrup
+* PythonTR: https://t.me/Python_TR
+* C#/Unity grubu: https://t.me/Csharp_TR
+* Java_TR: https://t.me/Java_TR
+* Linux_TR: https://t.me/Linux_TR
+* p_sohbet: https://t.me/p_sohbet
 
 ## Kanallar:
 * Anime & Fan-art: https://t.me/fan_artanime
