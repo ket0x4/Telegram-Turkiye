@@ -1,7 +1,7 @@
 # Telegram-Turkiye
 Telegram Türkçe Grup,Kanal Listesi
 
-##Gruplar:
+## Gruplar:
 
 1. AnimeTR: https://t.me/anime_turkiye
 2. DroidTR: https://t.me/droidtr
