@@ -27,4 +27,7 @@ Telegram Türkçe Grup,Kanal Listesi
 * Project Crackling Channel: https://t.me/projectcrackling
 * Samsung Galaxy Gio Depolama bölümü: https://t.me/joinchat/AAAAAE9IMeAu1x-_geHTJQ
 * Java Apps & Games: https://t.me/javaapps
-* 
+* ReactXP: https://t.me/ReactXP
+* Biomedikal/Sağlık Döküman: https://t.me/medicaldocuments
+* Android x86: https://t.me/aandroidx86
+* Ses - Müzik Genel: https://t.me/SESTR_TR
