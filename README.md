@@ -5,9 +5,8 @@ Telegram Türkçe Grup,Kanal Listesi
 ## Gruplar:
 
 * AnimeTR: https://t.me/anime_turkiye
-* TPR: https://t.me/joinchat/IL9JgUbSDYzD61v0GBUiAg
 * DroidTR: https://t.me/droidtr
-* Teknolojiden Anlayanlar: https://t.me/joinchat/I8iC1Et8KByUJQTPWbmwoA
+* Teknolojiden Anlayanlar: https://t.me/joinchat/HzZ2yEt8KBxGwGBu3rWhnw
 * Huawei Türkiye: https://t.me/joinchat/Ik6ZPkjZCvaf7CpCi134sw
 * Türkiye Bilişimi Kalkındırma Topluluğu: https://t.me/tbktresmi
 * ElektronikTR: https://t.me/elektroniktr
