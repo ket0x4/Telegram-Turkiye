@@ -18,6 +18,7 @@ Telegram Türkçe Grup,Kanal Listesi
 * C#/Unity grubu: https://t.me/Csharp_TR
 * Java_TR: https://t.me/Java_TR
 * Linux_TR: https://t.me/Linux_TR
+* GNU/Linux TR: https://t.me/GNULinuxtr
 * p_sohbet: https://t.me/p_sohbet
 
 ## Kanallar:
