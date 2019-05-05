@@ -4,6 +4,7 @@ Telegram Türkçe Grup,Kanal Listesi
 
 ## Gruplar:
 * MemeSmugger Community: https://t.me/joinchat/LH1eKg9RCWZE90FPKxuUVQ
+* MiA2 lite Türkiye: https://t.me/mia2liteturkiye
 * AnimeTR: https://t.me/anime_turkiye
 * DroidTR: https://t.me/droidtr
 * Teknolojiden Anlayanlar: https://t.me/joinchat/HzZ2yEt8KBxGwGBu3rWhnw
