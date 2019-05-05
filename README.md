@@ -22,16 +22,12 @@ Telegram Türkçe Grup,Kanal Listesi
 * MemeSmugger: https://t.me/memesmuggler
 * Anime & Fan-art: https://t.me/fan_artanime
 * Fun4Telegram: https://t.me/mim4turkey
-* Old Game Archive: https://t.me/joinchat/AAAAAEqxcuvF-cccHD3RfA
 * PlayBoy Store: https://t.me/PlayBoyStore
 * Cats: https://t.me/catdamnit
 * Software Notes (Yazılım notları): https://t.me/YazilimNotlari
-* 64Bit Teknoloji(TR):https://t.me/altmisdortbit
-* HI-FI Music: https://t.me/dooplaylist
 * Telegram Türkçe: https://t.me/trtelegram
 * Crackling Downloads: https://t.me/crackling_downloads
 * Project Crackling Channel: https://t.me/projectcrackling
-* Samsung Galaxy Gio Depolama bölümü: https://t.me/joinchat/AAAAAE9IMeAu1x-_geHTJQ
 * Java Apps & Games: https://t.me/javaapps
 * ReactXP: https://t.me/ReactXP
 * Biomedikal/Sağlık Döküman: https://t.me/medicaldocuments
