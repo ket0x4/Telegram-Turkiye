@@ -25,6 +25,7 @@ Telegram Türkçe Grup,Kanal Listesi
 ## Kanallar:
 * MemeSmugger: https://t.me/memesmuggler
 * Anime & Fan-art: https://t.me/fan_artanime
+* Absurdmemes: https://t.me/absurdmemes
 * Fun4Telegram: https://t.me/mim4turkey
 * PlayBoy Store: https://t.me/PlayBoyStore
 * Cats: https://t.me/catdamnit
