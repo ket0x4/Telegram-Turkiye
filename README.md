@@ -7,6 +7,7 @@ Telegram Türkçe Grup,Kanal Listesi
 * MiA2 lite Türkiye: https://t.me/mia2liteturkiye
 * AnimeTR: https://t.me/anime_turkiye
 * DroidTR: https://t.me/droidtr
+* Linux Oyuncu Topluluğu: https://t.me/linuxoyuncutoplulugu
 * Teknolojiden Anlayanlar: https://t.me/joinchat/HzZ2yEt8KBxGwGBu3rWhnw
 * Huawei Türkiye: https://t.me/joinchat/Ik6ZPkjZCvaf7CpCi134sw
 * Türkiye Bilişimi Kalkındırma Topluluğu: https://t.me/tbktresmi
