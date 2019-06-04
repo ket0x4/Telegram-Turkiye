@@ -22,6 +22,7 @@ Telegram Türkçe Grup,Kanal Listesi
 * GNU/Linux TR: https://t.me/GNULinuxtr
 * p_sohbet: https://t.me/p_sohbet
 * [GLOBAL] Anime Limitless: https://t.me/limitlessAnime
+* (Hackintosh) Hakintoş Türkiye: https://t.me/HackintoshTR
 
 ## Kanallar:
 * MemeSmugger: https://t.me/memesmuggler
