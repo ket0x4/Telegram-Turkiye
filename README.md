@@ -34,7 +34,7 @@ Telegram Türkçe Grup,Kanal Listesi
 * [Fun4Telegram](https://t.me/mim4turkey)
 * [PlayBoyStore](https://t.me/PlayBoyStore)
 * [Cats](https://t.me/catdamnit)
-* [Software Notes](https://t.me/Yazil)imNotlari)
+* [Software Notes](https://t.me/Yazil)
 * [Telegram Türkçe](https://t.me/trtelegram)
 * [Crackling Downloads](https://t.me/crackling_downloads)
 * [ProjectCrackling Channel](https://t.me/projectcrackling)
