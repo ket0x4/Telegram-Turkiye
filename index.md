@@ -23,7 +23,7 @@ Telegram Türkçe Grup,Kanal Listesi
 * [p_sohbet](https://t.me/p_sohbet)
 * [Anime Limitless](https://t.me/limitlessAnime)
 
-##Kanallar
+## Kanallar
 * [MemeSmugger](https://t.me/memesmuggler)
 * [Anime&Fan-art](https://t.me/fan_artanime)
 * [Absurdmemes](https://t.me/absurdmemes)
