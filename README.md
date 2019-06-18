@@ -2,7 +2,7 @@
 Telegram Türkçe Grup,Kanal Listesi
 ###### Gruplara katılarak grupların kurallarını kabutetmiş sayılırsınız!
 
-##Gruplar
+## Gruplar
 * [MemeSmugger Community](https//t.me/joinchat/LH1eKg9RCWZE90FPKxuUVQ)
 * [MiA2lite Türkiye](https//t.me/mia2liteturkiye)
 * [AnimeTR](https//t.me/anime_turkiye)
