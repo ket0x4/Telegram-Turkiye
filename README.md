@@ -39,7 +39,6 @@ Telegram Türkçe Grup,Kanal Listesi
 * [Crackling Downloads](https://t.me/crackling_downloads)
 * [ProjectCrackling Channel](https://t.me/projectcrackling)
 * [JavaApps&Games](https://t.me/javaapps)
-* [ReactXP](https://t.me/ReactXP)
 * [Biomedikal/SağlıkDöküman](https://t.me/medicaldocuments)
 * [Androidx86](https://t.me/aandroidx86)
 * [Ses-MüzikTR](https://t.me/SESTR_TR)
