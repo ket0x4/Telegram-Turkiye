@@ -2,12 +2,11 @@
 Telegram Türkçe Grup,Kanal Listesi
 ###### Gruplara katılarak grupların kurallarını kabutetmiş sayılırsınız!
 
-# Tüm Gruplar:
-
 # [Tüm Gruplar için Tıklayın](https://thedoop.github.io/Telegram-Turkiye/)
 
 ## Gruplar
 * [MemeSmugger Community](https://t.me/joinchat/LH1eKg9RCWZE90FPKxuUVQ)
+* [Hackintosh] (Hakintoş Türkiye: https://t.me/HackintoshTR)
 * [MiA2lite Türkiye](https://t.me/mia2liteturkiye)
 * [AnimeTR](https://t.me/anime_turkiye)
 * [DroidTR](https://t.me/droidtr)
@@ -30,6 +29,7 @@ Telegram Türkçe Grup,Kanal Listesi
 ## Kanallar
 * [MemeSmugger](https://t.me/memesmuggler)
 * [Anime&Fan-art](https://t.me/fan_artanime)
+* [Karikatürya](https://t.me/karikaturya)
 * [Absurdmemes](https://t.me/absurdmemes)
 * [Fun4Telegram](https://t.me/mim4turkey)
 * [PlayBoyStore](https://t.me/PlayBoyStore)
@@ -44,4 +44,3 @@ Telegram Türkçe Grup,Kanal Listesi
 * [Androidx86](https://t.me/aandroidx86)
 * [Ses-MüzikTR](https://t.me/SESTR_TR)
 * [Kudurun™](https://telegram.me/Kudurun)
-* [Karikatürya](https://t.me/karikaturya)
