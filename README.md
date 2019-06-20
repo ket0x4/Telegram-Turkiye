@@ -44,3 +44,4 @@ Telegram Türkçe Grup,Kanal Listesi
 * [Androidx86](https://t.me/aandroidx86)
 * [Ses-MüzikTR](https://t.me/SESTR_TR)
 * [Kudurun™](https://telegram.me/Kudurun)
+* [Karikatürya](https://t.me/karikaturya)
