@@ -1,6 +1,6 @@
 # Telegram-Turkiye
 Telegram Türkçe Grup,Kanal Listesi
-###### Gruplara katılarak grupların kurallarını kabutetmiş sayılırsınız!
+###### Gruplara katılarak grupların kurallarını kabul etmiş sayılırsınız!
 
 ## Gruplar
 * [MemeSmugger Community](https://t.me/joinchat/LH1eKg9RCWZE90FPKxuUVQ)
