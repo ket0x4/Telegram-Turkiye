@@ -6,6 +6,7 @@ Telegram Türkçe Grup,Kanal Listesi
 * [MemeSmugger Community](https://t.me/joinchat/LH1eKg9RCWZE90FPKxuUVQ)
 * [MiA2lite Türkiye](https://t.me/mia2liteturkiye)
 * [AnimeTR](https://t.me/anime_turkiye)
+* [Hackintosh Türkiye](https://t.me/HackintoshTR)
 * [DroidTR](https://t.me/droidtr)
 * [Telegram konudışı](https://t.me/TGkonudisi)
 * [Linux Oyuncu Topluluğu](https://t.me/linuxoyuncutoplulugu)
