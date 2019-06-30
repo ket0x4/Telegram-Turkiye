@@ -9,6 +9,7 @@ Telegram Türkçe Grup,Kanal Listesi
 * [Hackintosh Türkiye](https://t.me/HackintoshTR)
 * [MiA2lite Türkiye](https://t.me/mia2liteturkiye)
 * [AnimeTR](https://t.me/anime_turkiye)
+* [koesnu/community](https://t.me/koesnu)
 * [DroidTR](https://t.me/droidtr)
 * [Telegram konudışı](https://t.me/TGkonudisi)
 * [Linux Oyuncu Topluluğu](https://t.me/linuxoyuncutoplulugu)
