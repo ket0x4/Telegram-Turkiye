@@ -30,26 +30,33 @@ Telegram Türkçe Grup,Kanal Listesi
 * [p_sohbet](https://t.me/p_sohbet)
 
 ## Cihaza özel destek grupları:
-* [MiA2lite Türkiye](https://t.me/mia2liteturkiye)
+* [Mi A2 lite Türkiye](https://t.me/mia2liteturkiye)
 * [GeneralMobile 4G/5 ve Wileyfox Swift](https://t.me/cracklinturkiye)
 * [Huawei Türkiye](https://t.me/joinchat/Ik6ZPkjZCvaf7CpCi134sw)
 
 
-## Kanallar
+# Kanallar
+
+## Yazılım & Donanım:
+* [PlayBoyStore](https://t.me/PlayBoyStore)
+* [Androidx86](https://t.me/aandroidx86)
+* [ReactXP](https://t.me/ReactXP)
+* [ProjectCrackling Channel](https://t.me/projectcrackling)
+* [Crackling Downloads](https://t.me/crackling_downloads)
+* [JavaApps&Games](https://t.me/javaapps)
+* [Software Notes (Yazılım Notları)](https://t.me/Yazilimnotlari)
+
+## Meme(mim) & Mizah:
 * [MemeSmugger](https://t.me/memesmuggler)
-* [Anime&Fan-art](https://t.me/fan_artanime)
 * [Absurdmemes](https://t.me/absurdmemes)
 * [Fun4Telegram](https://t.me/mim4turkey)
-* [PlayBoyStore](https://t.me/PlayBoyStore)
-* [Cats](https://t.me/catdamnit)
-* [Software Notes](https://t.me/Yazil)i
 * [Telegram Türkçe](https://t.me/trtelegram)
-* [Crackling Downloads](https://t.me/crackling_downloads)
-* [ProjectCrackling Channel](https://t.me/projectcrackling)
-* [JavaApps&Games](https://t.me/javaapps)
-* [ReactXP](https://t.me/ReactXP)
-* [Biomedikal/SağlıkDöküman](https://t.me/medicaldocuments)
-* [Androidx86](https://t.me/aandroidx86)
-* [Ses-MüzikTR](https://t.me/SESTR_TR)
 * [Kudurun™](https://telegram.me/Kudurun)
 * [Karikatürya](https://t.me/karikaturya)
+
+## Diğer:
+* [Ses-MüzikTR](https://t.me/SESTR_TR)
+* [Biomedikal/SağlıkDöküman](https://t.me/medicaldocuments)
+* [Cats](https://t.me/catdamnit)
+* [Anime&Fan-art](https://t.me/fan_artanime)
+
