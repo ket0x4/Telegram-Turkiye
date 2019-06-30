@@ -19,6 +19,7 @@ Telegram Türkçe Grup,Kanal Listesi
 * [ElektronikTR](https://t.me/elektroniktr)
 * [j2me jarOyunProgram-J2MEJavaMicroEdition](https://t.me/j2megrup)
 * [Anime Limitless](https://t.me/limitlessAnime)
+* [AnimeSeyir](https://t.me/animeseyir)
 
 ## Programlama & Yazılım Grupları
 * [Flutter Türkiye](https://t.me/fluttertr)
@@ -54,9 +55,13 @@ Telegram Türkçe Grup,Kanal Listesi
 * [Kudurun™](https://telegram.me/Kudurun)
 * [Karikatürya](https://t.me/karikaturya)
 
+## Anime:
+* [Anime&Fan-art](https://t.me/fan_artanime)
+* [Anime Blut](https://t.me/AnimeBulut)
+* [Anime Sevimli](https://t.me/AnimeSevimli)
+* [Anime Sanat](https://t.me/AnimeSanat)
+
 ## Diğer:
 * [Ses-MüzikTR](https://t.me/SESTR_TR)
 * [Biomedikal/SağlıkDöküman](https://t.me/medicaldocuments)
 * [Cats](https://t.me/catdamnit)
-* [Anime&Fan-art](https://t.me/fan_artanime)
-
