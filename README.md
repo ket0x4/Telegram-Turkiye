@@ -52,7 +52,6 @@ Telegram Türkçe Grup,Kanal Listesi
 * [MemeSmugger](https://t.me/memesmuggler)
 * [Absurdmemes](https://t.me/absurdmemes)
 * [Fun4Telegram](https://t.me/mim4turkey)
-* [Telegram Türkçe](https://t.me/trtelegram)
 * [Kudurun™](https://telegram.me/Kudurun)
 * [Karikatürya](https://t.me/karikaturya)
 
@@ -63,6 +62,7 @@ Telegram Türkçe Grup,Kanal Listesi
 * [Anime Sanat](https://t.me/AnimeSanat)
 
 ## Diğer:
+* [Telegram Türkçe](https://t.me/trtelegram)
 * [Ses-MüzikTR](https://t.me/SESTR_TR)
 * [Biomedikal/SağlıkDöküman](https://t.me/medicaldocuments)
 * [Cats](https://t.me/catdamnit)
