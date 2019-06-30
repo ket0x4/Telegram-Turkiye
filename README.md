@@ -1,6 +1,6 @@
 # Telegram-Turkiye
 Telegram Türkçe Grup,Kanal Listesi
-###### Gruplara katılarak grupların kurallarını kabutetmiş sayılırsınız!
+###### Gruplara katılarak grupların kurallarını kabul etmiş sayılırsınız!
 
 # [Tüm Gruplar için Tıklayın](https://thedoop.github.io/Telegram-Turkiye/)
 
@@ -30,6 +30,8 @@ Telegram Türkçe Grup,Kanal Listesi
 * [Linux_TR](https://t.me/Linux_TR)
 * [GNU/LinuxTR](https://t.me/GNULinuxtr)
 * [p_sohbet](https://t.me/p_sohbet)
+* [Linux Mafyası](https://t.me/linuxmafyasi)
+* [GNOME Türkiye](https://t.me/gnometr)
 
 ## Cihaza özel destek grupları:
 * [Mi A2 lite Türkiye](https://t.me/mia2liteturkiye)
