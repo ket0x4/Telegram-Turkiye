@@ -65,6 +65,7 @@ Telegram Türkçe Grup,Kanal Listesi
 
 ## Diğer:
 * [Telegram Türkçe](https://t.me/trtelegram)
+* [Kitap Arşivi](https://t.me/sanalkitap)
 * [Ses-MüzikTR](https://t.me/SESTR_TR)
 * [Biomedikal/SağlıkDöküman](https://t.me/medicaldocuments)
 * [Cats](https://t.me/catdamnit)
