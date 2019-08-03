@@ -1,5 +1,5 @@
 # Telegram-Turkiye
-Telegram Türkçe Grup,Kanal Listesi
+Telegram Türkçe Grup, Kanal Listesi
 ##### Gruplara katılarak grupların kurallarını kabul etmiş sayılırsınız!
 
 
@@ -10,24 +10,29 @@ Telegram Türkçe Grup,Kanal Listesi
 * [MemeSmugger Community](https://t.me/joinchat/LH1eKg9RCWZE90FPKxuUVQ)
 * [AnimeTR](https://t.me/anime_turkiye)
 * [koesnu/community](https://t.me/koesnu)
-* [Hackintosh Türkiye](https://t.me/HackintoshTR)
-* [DroidTR](https://t.me/droidtr)
 * [Telegram konudışı](https://t.me/TGkonudisi)
 * [Linux Oyuncu Topluluğu](https://t.me/linuxoyuncutoplulugu)
 * [Teknolojiden Anlayanlar](https://t.me/joinchat/HzZ2yEt8KBxGwGBu3rWhnw)
 * [Türkiye Bilişimi Kalkındırma Topluluğu](https://t.me/tbktresmi)
-* [ElektronikTR](https://t.me/elektroniktr)
 * [j2me jarOyunProgram-J2MEJavaMicroEdition](https://t.me/j2megrup)
 * [Anime Limitless](https://t.me/limitlessAnime)
 * [AnimeSeyir](https://t.me/animeseyir)
+* [Kuralsız, Sınırsız, Her Şey](https://t.me/her_sey)
 
-## Programlama & Yazılım Grupları
+###Sulin takımı:
+* [Hackintosh Türkiye](https://t.me/HackintoshTR)
+* [Android - DroidTR](https://t.me/DroidTurkiye)
+* [GNU/Linux Türkiye](https://t.me/GNULinuxTurkiye)
+* [Elektronik Türkiye](https://t.me/ElektronikTurkiye)
+* [OpenWrt Türkiye](https://t.me/OpenWrtTurkiye)
+* [Anti-Gapps](https://t.me/AntiGapps)
+
+## Programlama & Yazılım Grupları:
 * [Flutter Türkiye](https://t.me/fluttertr)
 * [PythonTR](https://t.me/Python_TR)
 * [C#/Unitygrubu](https://t.me/Csharp_TR)
 * [Java_TR](https://t.me/Java_TR)
 * [Linux_TR](https://t.me/Linux_TR)
-* [GNU/LinuxTR](https://t.me/GNULinuxtr)
 * [p_sohbet](https://t.me/p_sohbet)
 * [Linux Mafyası](https://t.me/linuxmafyasi)
 * [GNOME Türkiye](https://t.me/gnometr)
@@ -42,6 +47,7 @@ Telegram Türkçe Grup,Kanal Listesi
 
 ## Yazılım & Donanım:
 * [PlayBoyStore](https://t.me/PlayBoyStore)
+* [Yazılım Deposu](https://t.me/yazwmdeposu)
 * [Androidx86](https://t.me/aandroidx86)
 * [ReactXP](https://t.me/ReactXP)
 * [ProjectCrackling Channel](https://t.me/projectcrackling)
@@ -63,8 +69,14 @@ Telegram Türkçe Grup,Kanal Listesi
 * [Anime Sevimli](https://t.me/AnimeSevimli)
 * [Anime Sanat](https://t.me/AnimeSanat)
 
+## Kitap:
+* [Okuma Evi](https://t.me/okumaevi)
+* [Yazıt Evi - EPUB](https://t.me/joinchat/AAAAAEpLvWJONmkv0pNxJQ)
+* [Yazıt Evi - PDF](https://t.me/joinchat/AAAAAEeZksXf_h9nhWCRKg)
+* [Kitap Arşiv](https://t.me/joinchat/AAAAAEHtv8EC7ZZ4bUpyyQ)
+* [E-Kitaplar](https://t.me/joinchat/AAAAAFKKtJFL8FGvLaJwtw)
+* [SanalKitap](https://t.me/sanalkitap)
+
 ## Diğer:
-* [Ses-MüzikTR](https://t.me/SESTR_TR)
-* [Kitap Arşivi](https://t.me/sanalkitap)
 * [Biomedikal/SağlıkDöküman](https://t.me/medicaldocuments)
 * [Cats](https://t.me/catdamnit)
