@@ -19,7 +19,7 @@ Telegram Türkçe Grup, Kanal Listesi
 * [AnimeSeyir](https://t.me/animeseyir)
 * [Kuralsız, Sınırsız, Her Şey](https://t.me/her_sey)
 
-### Sulin takımı:
+### Sulin takımı: (Bu Grup ve kanallar şu anda sorun yaşıyor. Katılmakta sorun yaşayabilirsiniz.)
 * [Hackintosh Türkiye](https://t.me/HackintoshTR)
 * [Android - DroidTR](https://t.me/DroidTurkiye)
 * [GNU/Linux Türkiye](https://t.me/GNULinuxTurkiye)
