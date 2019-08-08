@@ -4,7 +4,7 @@
 
 # [Tüm Gruplar Ve Kanallar için Tıklayın](https://thedoop.github.io/Telegram-Turkiye/)
 
-### Eklenmesini istediğiniz grup|kanal için Pullrequest yollayabilir veya issue açabilirsiniz
+### Eklenmesini istediğiniz grup / kanal için Pullrequest yollayabilir veya issue açabilirsiniz
 
 ### Değişiklik Günlüğü
 #### 03.08.2019
