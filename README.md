@@ -10,3 +10,6 @@
 #### 03.08.2019
 - Readme.md Düzenlendi
 - GNU/LinuxTR ve DroidTR Grupları değiştirildi
+
+#### 08.09.2019
+- [Anasayfa](https://t.me/anasayfa) eklendi 
