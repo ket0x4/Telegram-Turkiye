@@ -75,4 +75,3 @@ Telegram Türkçe Grup, Kanal Listesi
 ## Diğer:
 * [Anasayfa](https://t.me/anasayfa)
 * [Biomedikal/SağlıkDöküman](https://t.me/medicaldocuments)
-* [Cats](https://t.me/catdamnit)
