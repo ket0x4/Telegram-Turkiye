@@ -6,24 +6,19 @@ Telegram Türkçe Grup, Kanal Listesi
 # Gruplar
 
 ## Genel Sohbet & Destek Grupları:
-
-* [MemeSmugger Community](https://t.me/joinchat/LH1eKg9RCWZE90FPKxuUVQ)
 * [AnimeTR](https://t.me/anime_turkiye)
-* [koesnu/community](https://t.me/koesnu)
-* [Telegram konudışı](https://t.me/TGkonudisi)
 * [Linux Oyuncu Topluluğu](https://t.me/linuxoyuncutoplulugu)
-* [Teknolojiden Anlayanlar](https://t.me/joinchat/HzZ2yEt8KBxGwGBu3rWhnw)
 * [Türkiye Bilişimi Kalkındırma Topluluğu](https://t.me/tbktresmi)
 * [j2me jarOyunProgram-J2MEJavaMicroEdition](https://t.me/j2megrup)
 * [Anime Limitless](https://t.me/limitlessAnime)
 * [AnimeSeyir](https://t.me/animeseyir)
-* [Kuralsız, Sınırsız, Her Şey](https://t.me/her_sey)
+* [Haydo](https://t.me/haydo)
 
 ## Sulin takımı:
 * [Hackintosh Türkiye](https://t.me/HackintoshTR)
-* [Android - DroidTR](https://t.me/DroidTurkiye)
-* [GNU/Linux Türkiye](https://t.me/GNULinuxTurkiye)
-* [Elektronik Türkiye](https://t.me/ElektronikTurkiye)
+* [Android - DroidTR](https://t.me/DroidTr)
+* [GNU/Linux Türkiye](https://t.me/GNULinuxTr)
+* [Elektronik Türkiye](https://t.me/Elektroniktr)
 * [OpenWrt Türkiye](https://t.me/OpenWrtTurkiye)
 * [Anti-Gapps](https://t.me/AntiGapps)
 
@@ -57,7 +52,6 @@ Telegram Türkçe Grup, Kanal Listesi
 
 ## Meme(mim) & Mizah:
 * [MemeSmugger](https://t.me/memesmuggler)
-* [Absurdmemes](https://t.me/absurdmemes)
 * [Fun4Telegram](https://t.me/mim4turkey)
 * [Telegram Türkçe](https://t.me/trtelegram)
 * [Kudurun™](https://telegram.me/Kudurun)
@@ -68,6 +62,7 @@ Telegram Türkçe Grup, Kanal Listesi
 * [Anime Blut](https://t.me/AnimeBulut)
 * [Anime Sevimli](https://t.me/AnimeSevimli)
 * [Anime Sanat](https://t.me/AnimeSanat)
+* [Anime Limitless](https://t.me/limitlessAnime)
 
 ## Kitap:
 * [Okuma Evi](https://t.me/okumaevi)
