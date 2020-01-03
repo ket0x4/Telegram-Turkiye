@@ -23,6 +23,7 @@ Telegram Türkçe Grup, Kanal Listesi
 * [Anti-Gapps](https://t.me/AntiGapps)
 
 ## Programlama & Yazılım Grupları:
+* [Yazılım Topluluğu](https://t.me/yazilimtoplulugu)
 * [Flutter Türkiye](https://t.me/fluttertr)
 * [PythonTR](https://t.me/Python_TR)
 * [C#/Unitygrubu](https://t.me/Csharp_TR)
@@ -40,6 +41,10 @@ Telegram Türkçe Grup, Kanal Listesi
 
 # Kanallar
 
+## Haber & Medya:
+* [Telegram Türkçe](https://t.me/trtelegram)
+* [Bot Haberleri](https://t.me/bothaberleri)
+
 ## Yazılım & Donanım:
 * [PlayBoyStore](https://t.me/PlayBoyStore)
 * [Yazılım Deposu](https://t.me/yazwmdeposu)
@@ -53,7 +58,6 @@ Telegram Türkçe Grup, Kanal Listesi
 ## Meme(mim) & Mizah:
 * [MemeSmugger](https://t.me/memesmuggler)
 * [Fun4Telegram](https://t.me/mim4turkey)
-* [Telegram Türkçe](https://t.me/trtelegram)
 * [Kudurun™](https://telegram.me/Kudurun)
 * [Karikatürya](https://t.me/karikaturya)
 
