@@ -8,6 +8,10 @@
 
 ### Değişiklik Günlüğü
 
+### 4.01.2020
+- "Haber & Medya" kategorisi eklendi; @trtelegram taşındı ve @bothaberleri eklendi.
+- "Programlama & Yazılım" kategorisine @yazilimtoplulugu eklendi.
+
 ### 29.12.2019
 - Sulin takımı düzeltildi
 - Anime limitless Grubu eklendi
