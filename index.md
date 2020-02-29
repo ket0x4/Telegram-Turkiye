@@ -41,6 +41,10 @@ Telegram Türkçe Grup, Kanal Listesi
 
 # Kanallar
 
+##Bilgi
+* [Telegram Türkiye](https://t.me/TurkiyeTelegram)
+* [Anasayfa](https://t.me/anasayfa)
+
 ## Haber & Medya:
 * [Telegram Türkçe](https://t.me/trtelegram)
 * [Bot Haberleri](https://t.me/bothaberleri)
@@ -76,6 +80,5 @@ Telegram Türkçe Grup, Kanal Listesi
 * [E-Kitaplar](https://t.me/joinchat/AAAAAFKKtJFL8FGvLaJwtw)
 * [SanalKitap](https://t.me/sanalkitap)
 
-## Diğer:
-* [Anasayfa](https://t.me/anasayfa)
+## Dökümantasyon:
 * [Biomedikal/SağlıkDöküman](https://t.me/medicaldocuments)
