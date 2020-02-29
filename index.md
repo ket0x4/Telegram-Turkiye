@@ -41,7 +41,7 @@ Telegram Türkçe Grup, Kanal Listesi
 
 # Kanallar
 
-##Bilgi
+## Bilgi
 * [Telegram Türkiye](https://t.me/TurkiyeTelegram)
 * [Anasayfa](https://t.me/anasayfa)
 
