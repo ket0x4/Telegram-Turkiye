@@ -8,6 +8,11 @@
 
 ### Değişiklik Günlüğü
 
+### 3.03.2020
+- "Telegram Türkiye eklendi"
+- "bilgi kategorisi ekledi"
+- "dökümantasyon kategorisi eklendi"
+
 ### 4.01.2020
 - "Haber & Medya" kategorisi eklendi; @trtelegram taşındı ve @bothaberleri eklendi.
 - "Programlama & Yazılım" kategorisine @yazilimtoplulugu eklendi.
