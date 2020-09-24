@@ -8,6 +8,24 @@
 
 ### Değişiklik Günlüğü
 
+##  25.09.2020
+- Undefined Eklendi.
+- Sulin OS türkiye eklendi.
+- Açık Kaynak - Özgür Yazılım eklendi.
+- Mi Band 4/5 Türkiye eklendi.
+- Doğrusu Ne? eklendi.
+- Pantheon Türkiye eklendi.
+- UBports TR Eklendi.
+- AnimeTR, Anime Türkiye olarak güncellendi ve Bağlantı yenilendi.
+- J2me grubu spam gönderiler barındırdığı için kaldırıldı.
+- Anime limitless aktif olmadığı için kaldırıldı.
+- Haydo gruba girişler kapatıldığı için kaldırıldı.
+- GeneralMobile 4G/5 ve Wileyfox Swift grubu artık bir sahip olmadığı için kaldırıldı.
+- Huawei Türkiye, Huawei & Xiaomi Türkiye olarak güncellendi.
+- ReactXP kanalı kaldırıldı.
+- Retards™ eklendi.
+- E-Kitaplar kaldırıldı. link değişmiş.
+
 ### 3.03.2020
 - "Telegram Türkiye eklendi"
 - "bilgi kategorisi ekledi"
