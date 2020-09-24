@@ -2,7 +2,7 @@
 
 ###### Gruplara katılarak grupların kurallarını kabul etmiş sayılırsınız!
 
-# [Tüm Gruplar Ve Kanallar için Tıklayın](https://thedoop.github.io/Telegram-Turkiye/)
+# [Tüm Gruplar Ve Kanallar için Tıklayın](https://caticer.github.io/Telegram-Turkiye/)
 
 ### Eklenmesini istediğiniz grup / kanal için Pullrequest yollayabilir veya issue açabilirsiniz
 
