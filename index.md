@@ -7,6 +7,7 @@ Telegram Türkçe Grup, Kanal Listesi
 
 ## Genel Sohbet & Destek Grupları:
 * [Anime Türkiye](https://t.me/AnimeTurkiyee)
+* [Undefined](https://t.me/undefinedtr)
 * [Linux Oyuncu Topluluğu](https://t.me/linuxoyuncutoplulugu)
 * [Türkiye Bilişimi Kalkındırma Topluluğu](https://t.me/tbktresmi)
 * [AnimeSeyir](https://t.me/animeseyir)
@@ -19,6 +20,8 @@ Telegram Türkçe Grup, Kanal Listesi
 
 ## Programlama & Yazılım Grupları:
 * [Yazılım Topluluğu](https://t.me/yazilimtoplulugu)
+* [SulinOS Türkiye](https://t.me/sulinostr)
+* [Açık Kaynak - Özgür Yazılım](https://t.me/acikveozgur)
 * [Flutter Türkiye](https://t.me/fluttertr)
 * [PythonTR](https://t.me/Python_TR)
 * [C#/Unitygrubu](https://t.me/Csharp_TR)
@@ -27,9 +30,12 @@ Telegram Türkçe Grup, Kanal Listesi
 * [Programlama genel sohbet](https://t.me/p_sohbet)
 * [Linux Mafyası](https://t.me/linuxmafyasi)
 * [GNOME Türkiye](https://t.me/gnometr)
+* [Pantheon Türkiye](https://t.me/pantheontr)
+* [UBports TR](https://t.me/UBports_TR)
 
 ## Cihaza özel destek grupları:
 * [Mi A2 lite Türkiye](https://t.me/mia2liteturkiye)
+* [Mi Band 4/5 Türkiye](https://t.me/MiBandTR)
 * [Huawei & Xiaomi Türkiye](https://t.me/joinchat/Ik6ZPkjZCvaf7CpCi134sw)
 
 
@@ -37,6 +43,7 @@ Telegram Türkçe Grup, Kanal Listesi
 
 ## Bilgi
 * [Telegram Türkiye](https://t.me/TurkiyeTelegram)
+* [Doğrusu Ne?](https://t.me/teyit)
 * [Anasayfa](https://t.me/anasayfa)
 
 ## Haber & Medya:
