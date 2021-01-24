@@ -8,6 +8,11 @@
 
 ### Değişiklik Günlüğü
 
+## 24.01.2021
+- Kişi kategorisi oluşturuldu ve bazı resmi hesaplar eklendi.
+- Haber & Medya kategorisine birçok kanal eklendi.
+- Üretkenlik & Eğitim kategorisi oluşturuldu ve kanallar eklendi.
+
 ##  25.09.2020
 - Undefined Eklendi.
 - Sulin OS türkiye eklendi.
