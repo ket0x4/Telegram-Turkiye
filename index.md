@@ -41,6 +41,15 @@ Telegram Türkçe Grup, Kanal Listesi
 
 # Kanallar
 
+## Kişi
+* [Recep Tayyip Erdoğan](https://t.me/rterdogan)
+* [Ekrem İmamoğlu](https://t.me/e_imamoglu)
+* [Fahrettin Altun](https://t.me/fahrettinaltun)
+
+## Belediye
+* [İstanbul Büyükşehir Belediyesi](https://t.me/istanbulbld)
+* [Bodrum Belediyesi](https://t.me/BodrumBel)
+
 ## Bilgi
 * [Telegram Türkiye](https://t.me/TurkiyeTelegram)
 * [Doğrusu Ne?](https://t.me/teyit)
@@ -49,6 +58,21 @@ Telegram Türkçe Grup, Kanal Listesi
 ## Haber & Medya:
 * [Telegram Türkçe](https://t.me/trtelegram)
 * [Bot Haberleri](https://t.me/bothaberleri)
+* [Webtekno](https://t.me/webtekno)
+* [TRT Haber](https://t.me/trthaberdijital)
+* [Sputnik Türkiye](https://t.me/tr_sputnik)
+* [Cumhuriyet Gazetesi](https://t.me/cumhuriyetgazetesi)
+* [Anadolu Ajansı](https://t.me/anadoluajansi)
+* [Asia News TR](https://t.me/asianewstr)
+* [Erkin Öncan](https://t.me/erknoncn)
+* [LorentLabs Topluluğu](https://t.me/LorentLabs)
+
+## Üretkenlik & Eğitim
+* [Çağrı Hoca](https://t.me/cagrihoca)
+* [Uçurtma Projesi](https://t.me/ucurtma_projesi)
+* [Retro Photos](https://t.me/retro)
+* [Quote](https://t.me/quote)
+* [Feyz](https://t.me/feyzli)
 
 ## Yazılım & Donanım:
 * [PlayBoyStore](https://t.me/PlayBoyStore)
