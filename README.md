@@ -9,7 +9,7 @@
 ### Değişiklik Günlüğü
 
 ## 24.01.2021
-- Kişi kategorisi oluşturuldu ve bazı resmi hesaplar eklendi.
+- Kişi ve Belediye kategorisi oluşturuldu ve bazı resmi hesaplar eklendi.
 - Haber & Medya kategorisine birçok kanal eklendi.
 - Üretkenlik & Eğitim kategorisi oluşturuldu ve kanallar eklendi.
 
